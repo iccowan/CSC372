@@ -17,25 +17,53 @@ public class Cube implements A1Cube {
      * The following track what is stored in each depth of the array:
      *     [Faces][Face Top and Bottom][Top/Bottom]
     */
-    private int[][][] faces = {
-            {{0,0},{0,0}}, // front - white
-            {{1,1},{1,1}}, // back - yellow
-            {{2,2},{2,2}}, // top - blue
-            {{3,3},{3,3}}, // bottom - green
-            {{4,4},{4,4}}, // left - orange
-            {{5,5},{5,5}}, // right - red
+    int[][][] faces = {
+            { // front - white
+                {0,0},
+                {0,0}
+            },
+            { // back - yellow
+                {1,1},
+                {1,1}
+            },
+            { // top - blue
+                {2,2},
+                {2,2}
+            },
+            { // bottom - green
+                {3,3},
+                {3,3}
+            },
+            { // left - orange
+                {4,4},
+                {4,4}
+            },
+            { // right - red
+                {5,5},
+                {5,5}
+            },
         };
 
     /**
      * Keep track of the indices for each
      * face for consistency
      */
-    private final static int FRONT = 0; // 0's
-    private final static int BACK = 1; // 1's
-    private final static int TOP = 2; // 4's
-    private final static int BOTTOM = 3; // 5's
-    private final static int LEFT = 4; // 3's
-    private final static int RIGHT = 5; // 2's
+    final static int FRONT = 0; // 0's
+    final static int BACK = 1; // 1's
+    final static int TOP = 2; // 4's
+    final static int BOTTOM = 3; // 5's
+    final static int LEFT = 4; // 3's
+    final static int RIGHT = 5; // 2's
+
+    /**
+     * Keep track of the opposite faces and adjacent faces for solving
+     * Index is the current face... the value in the array is the opposite face
+     */
+    final static int[] OPPOSITE_FACES = {1, 0, 3, 2, 5, 4};
+    final static int[] TOP_FACES = {2, 2, 1, 0, 2, 2};
+    final static int[] BOTTOM_FACES = {3, 3, 0, 1, 3, 3};
+    final static int[] LEFT_FACES = {4, 5, 4, 4, 1, 0};
+    final static int[] RIGHT_FACES = {5, 4, 5, 5, 0, 1};
 
     /**
      * Clockwise and Counterclockwise integer representations for consistency
@@ -783,6 +811,7 @@ public class Cube implements A1Cube {
     public void randomize(int k) {
         // Make k moves to randomize the cube
         Random rand = new Random();
+        int[] prevMove = new int[2];
         for (int i = 0; i < k; i++) {
             // Random face
             int face = rand.nextInt(6);
@@ -790,8 +819,24 @@ public class Cube implements A1Cube {
             // Random direction
             int direction = rand.nextInt(2);
 
+            // Make sure we don't have an undo of the previous move
+            while (i == 0 && face == prevMove[0] && direction != prevMove[1]) {
+                // Random face
+                face = rand.nextInt(6);
+
+                // Random direction
+                direction = rand.nextInt(2);
+            }
+
             // Move the cube
-            moveFace(face, direction);
+            int numTurns;
+            if (direction == CLOCKWISE)
+                numTurns = 1;
+            else
+                numTurns = 3;
+
+            moveFace(face, numTurns);
+            prevMove = new int[] {face, direction};
         }
     }
 
