@@ -1,3 +1,5 @@
+import java.math.BigInteger;
+
 /**
  * Solves a 2x2 Rubik's Cube
  * Ian Cowan
@@ -7,6 +9,13 @@
  * @class SolveCube
  */
 public class SolveCube {
+
+    /**
+     * Keeps track of the number of nodes created
+     */
+    public static BigInteger numNodesCreated = new BigInteger("0");
+    public static BigInteger numNodesVisited = new BigInteger("0");
+    public static BigInteger bigInt1 = new BigInteger("1");
 
     /**
      * Moves for the solving nodes
@@ -118,6 +127,9 @@ public class SolveCube {
      * @return Node the final Node in the solution
      */
     private static Node aDepthFirstSearch(Node n, int maxF) {
+        // We just visited a new node
+        SolveCube.numNodesVisited = SolveCube.numNodesVisited.add(bigInt1);
+
         // Not solved and at the end of where we're going
         if (n.f >= maxF)
             return null;
@@ -159,6 +171,7 @@ public class SolveCube {
         Node soln = null;
         while (soln == null) {
             // Try to find a solution
+            SolveCube.numNodesCreated = SolveCube.numNodesCreated.add(bigInt1);
             soln = aDepthFirstSearch(new Node(null, NO_MOVE, NO_MOVE, (Cube)cube.clone(), 0), maxF);
 
             // If no solution is found, increment the maxF
@@ -169,17 +182,15 @@ public class SolveCube {
         return soln;
     }
 
-    public static void main(String[] args) {
-        Cube cube = new Cube();
-        cube.randomize(Integer.parseInt(args[0]));
-        Node soln = SolveCube.solveCube(cube);
-        System.out.println("Solved!");
-        soln.cubeState.print();
-        while (soln.parent != null) {
-            System.out.println("[" + soln.move + ", " + soln.direction + "]");
-            soln = soln.parent;
-        }
+    /**
+     * This will reset the counters within this static class since we cannot create
+     * a new object.
+     */
+    public static void reset() {
+        numNodesCreated = new BigInteger("0");
+        numNodesVisited = new BigInteger("0");
     }
+
 }
 
 /**
@@ -303,6 +314,9 @@ class Node {
 
             // Add the new node to the array of children
             children[i] = new Node(this, move, direction, makeMove(move, direction), depth + 1);
+
+            // Just created a new node
+            SolveCube.numNodesCreated = SolveCube.numNodesCreated.add(SolveCube.bigInt1);
         }
 
         // Return all children
