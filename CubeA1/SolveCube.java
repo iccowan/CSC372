@@ -41,6 +41,10 @@ public class SolveCube {
      * underestimate the number of moves to solve, but will never overestimate and is thus
      * an admissible heuristic.
      *
+     * The idea for this heuristic was inspired by the following article on
+     * StackOverflow discussing heuristics for a 3x3 cube.
+     * https://stackoverflow.com/questions/60130124/heuristic-function-for-rubiks-cube-in-a-algorithm-artificial-intelligence
+     *
      * Heuristic Mapping:
      * 0 <= On the correct face
      * 1 <= On the opposite of the correct face (relative back)
@@ -159,6 +163,9 @@ public class SolveCube {
      * greater than the admissible g + h, we will begin on
      * another node. Continue this with iteratively increasing
      * maximum f.
+     *
+     * Korf, Richard E. “Depth-First Iterative-Deepening: An Optimal Admissible
+     * Tree Search.” Artificial Intelligence, vol. 28, no. 1, 1986, pp. 97–109.
      *
      * @param Cube cube the cube that we want to solve
      * @return Node the Node of the final solved state
