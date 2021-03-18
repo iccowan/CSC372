@@ -10,49 +10,7 @@ import java.util.HashSet;
  *  @extends SAT
  */
 public class DPLL extends SAT {
-
-    /**
-     *  Checks to see whether or not a clause is satisfied
-     *
-     *  @param int[] clause           the clause to be checked for SAT
-     *  @param HashSet<Integer> model the model to check the clause against
-     *  @return boolean               whether or not the clause is SAT
-     */
-    private boolean clauseSatisfied(int[] clause, HashSet<Integer> model) {
-        // Loop through the clause and compare the value to the
-        // value that we have in the model
-        for (int val : clause)
-            // If the actual value matches the value in the model, we're sat
-            if (model.contains(val))
-                return true;
-
-        // If we get here, then no value to sat the clause was found, so unsat
-        return false;
-    }
-
-    /**
-     *  Checks to see if all of the clauses are SAT
-     *
-     *  @param int[][] clauses        the clauses to check
-     *  @param HashSet<Integer> model the model to check the clauses against
-     *  @return boolean               whether or not the clauses are SAT
-     */
-    private boolean isSat(int[][] clauses, HashSet<Integer> model) {
-        // If the model is empty, return false
-        if (model.isEmpty())
-            return false;
-
-        // Assume not sat
-        boolean sat = true;
-
-        // Check and see if all clauses can be satisfied with the current model
-        for (int[] clause : clauses)
-            if (! clauseSatisfied(clause, model))
-                sat = false;
-
-        return sat;
-    }
-
+    
     /**
      *  Main DPLL algorithm recursive method. This is the main implementation
      *  of the DPLL algorithm
