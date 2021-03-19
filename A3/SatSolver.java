@@ -33,7 +33,7 @@ public class SatSolver {
             if (dpllsolver.lastSat) {
                 // If SAT, print out the sol
                 System.out.print("DPLL: SAT ");
-                for (int sym : dpllsolver.satSol)
+                for (int sym : dpllsolver.sortedSol)
                     System.out.print(sym + " ");
                 System.out.println("0");
             } else {
@@ -47,7 +47,7 @@ public class SatSolver {
             if (walkSATSolver.lastSat) {
                 // If SAT, print the sol
                 System.out.print("WalkSAT: SAT ");
-                for (int sym : walkSATSolver.satSol)
+                for (int sym : walkSATSolver.sortedSol)
                     System.out.print(sym + " ");
                 System.out.println("0");
             } else {

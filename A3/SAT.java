@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashSet;
 import java.io.FileNotFoundException;
 
@@ -15,6 +16,11 @@ abstract class SAT {
      *  Tracks the solution for the SAT solver. Will be null if no solution.
      */
     public HashSet<Integer> satSol = null;
+
+    /**
+     *  Sorted array (by absolute value) of satSol
+     */
+    public int[] sortedSol = null;
 
     /**
      *  Keeps track of whether or not the SAT solver found a solution.
@@ -97,6 +103,7 @@ abstract class SAT {
      *
      *  @param String filePath the path of the DIMACS file
      */
+    @SuppressWarnings("unchecked")
     public void solve(String filePath) throws FileNotFoundException {
         // Read in the DIMACS file
         ReadDIMACS clausesAndSymbols = ReadDIMACS.read(filePath);
@@ -110,6 +117,17 @@ abstract class SAT {
 
         // Set lastSat attribute to the value returned by the solver
         lastSat = satSolver(clauses, symbols);
+
+        // If the satSol is not null, let's convert it to a sorted array
+        if (satSol != null) {
+            int[] sol = new int[satSol.size()];
+            int i = 0;
+            for (int sym : satSol) {
+                sol[i] = sym;
+                i++;
+            }
+            sortedSol = SatMergeSortIntArray.sort(sol);
+        }
     }
 
 }
