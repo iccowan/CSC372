@@ -10,25 +10,66 @@ import java.util.HashSet;
  *  @extends SAT
  */
 public class DPLL extends SAT {
-    
+
+    /**
+     *  Checks to see if a clause can ever be satisfied with the given model
+     *
+     *  @param int[] clause     the clause to check for SAT
+     *  @param HashSet<Integer> model the model to check against
+     *  @return boolean         whether or not the clause can be satisfied
+     */
+    private boolean canBeSatisfied(int[] clause, HashSet<Integer> model) {
+        // Check and see if can be sat
+        // If just one symbols makes it SAT, we can be SAT
+        for (int val : clause)
+            if (! model.contains(val * -1))
+                return true;
+
+        return false;
+    }
+
+    /**
+     *  Checks to see if clauses can ever be satisfied with the given model
+     *
+     *  @param int[][] clauses  the clauses to check for SAT
+     *  @param HashSet<Integer> model the model to check against
+     *  @return boolean         whether or not the clauses can be satisfied
+     */
+    private boolean canBeSatisfied(int[][] clauses, HashSet<Integer> model) {
+        // Loop through and see if we can be SAT or not
+        // This is different than the single clause, because all clauses have
+        // to be satisfied
+        for (int[] clause : clauses)
+            if (! canBeSatisfied(clause, model))
+                return false;
+
+        return true;
+    }
+
     /**
      *  Main DPLL algorithm recursive method. This is the main implementation
      *  of the DPLL algorithm
      *
-     *  @param int[][] clauses  the clauses to check for SAT
-     *  @param int[] symbols    the symbols that are included in the clauses
+     *  @param int[][] clauses        the clauses to check for SAT
+     *  @param int[] symbols          the symbols that are included in the
+     *                                clauses
      *  @param HashSet<Integer> model the model to check against for SAT
      */
     @SuppressWarnings("unchecked")
     private boolean DPLL(int[][] clauses, int[] symbols,
-                         HashSet<Integer> model) {
+                         HashSet<Integer> model, int lastNumSat) {
+        // New node expaned
+        nodesExpanded++;
+
         // If we're already sat, return
         // If not, we'll continue
         // If we are not sat and we are out of symbols, return unsat
-        if (isSat(clauses, model)) {
+        int numSat = numSat(clauses, model);
+        if (numSat == clauses.length) {
             satSol = model;
             return true;
-        } else if (symbols.length == 0)
+        } else if (numSat < lastNumSat || (! canBeSatisfied(clauses, model)) ||
+            symbols.length == 0)
             return false;
 
         // Now, we continue by taking the next symbol to check
@@ -50,8 +91,8 @@ public class DPLL extends SAT {
         // Finally, we'll return whether or not we're SAT with either of
         // these values. We are just looking for ONE solution, so if
         // either of these is true, we have a solution
-        return DPLL(clauses, restOfSymbols, modelSymTrue) ||
-               DPLL(clauses, restOfSymbols, modelSymFalse);
+        return DPLL(clauses, restOfSymbols, modelSymTrue, numSat) ||
+               DPLL(clauses, restOfSymbols, modelSymFalse, numSat);
     }
 
     /**
@@ -147,7 +188,7 @@ public class DPLL extends SAT {
         }
 
         // Now, we return the value of the recursion...
-        return DPLL(clauses, newSymbols, unitClausesAndPureSymbols);
+        return DPLL(clauses, newSymbols, unitClausesAndPureSymbols, 0);
     }
 
 }

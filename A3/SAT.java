@@ -27,6 +27,15 @@ abstract class SAT {
      */
     public boolean lastSat = false;
 
+    /**
+     *  Keeps track of the time required to find a solution.
+     */
+    public long solveTime = 0;
+
+    /**
+     *  Keeps track of the number of nodes expanded to find a solution.
+     */
+    public long nodesExpanded = 0;
 
     /**
      *  Checks to see whether or not a clause is satisfied
@@ -35,39 +44,38 @@ abstract class SAT {
      *  @param HashSet<Integer> model the model to check the clause against
      *  @return boolean               whether or not the clause is SAT
      */
-    protected boolean clauseSatisfied(int[] clause, HashSet<Integer> model) {
+    protected int clauseSatisfied(int[] clause, HashSet<Integer> model) {
         // Loop through the clause and compare the value to the
         // value that we have in the model
-        for (int val : clause)
+        for (int val : clause) {
             // If the actual value matches the value in the model, we're sat
             if (model.contains(val))
-                return true;
+                return 1;
+        }
 
-        // If we get here, then no value to sat the clause was found, so unsat
-        return false;
+        return 0;
     }
 
     /**
-     *  Checks to see if all of the clauses are SAT
+     *  Checks to see how many of the clauses are SAT
      *
      *  @param int[][] clauses        the clauses to check
      *  @param HashSet<Integer> model the model to check the clauses against
-     *  @return boolean               whether or not the clauses are SAT
+     *  @return int                   number of SAT clauses
      */
-    protected boolean isSat(int[][] clauses, HashSet<Integer> model) {
+    protected int numSat(int[][] clauses, HashSet<Integer> model) {
         // If the model is empty, return false
         if (model.isEmpty())
-            return false;
-
-        // Assume not sat
-        boolean sat = true;
+            return 0;
 
         // Check and see if all clauses can be satisfied with the current model
-        for (int[] clause : clauses)
-            if (! clauseSatisfied(clause, model))
-                sat = false;
+        int numSat = 0;
+        for (int[] clause : clauses) {
+            if (clauseSatisfied(clause, model) == 1)
+                numSat++;
+        }
 
-        return sat;
+        return numSat;
     }
 
     /**
@@ -93,6 +101,8 @@ abstract class SAT {
     public void reset() {
         satSol = null;
         lastSat = false;
+        solveTime = 0;
+        nodesExpanded = 0;
     }
 
     /**
@@ -116,10 +126,18 @@ abstract class SAT {
         int[] symbols = clausesAndSymbols.symbols;
 
         // Set lastSat attribute to the value returned by the solver
+        long startTime = System.currentTimeMillis();
         lastSat = satSolver(clauses, symbols);
+        long endTime = System.currentTimeMillis();
+        solveTime = endTime - startTime;
 
         // If the satSol is not null, let's convert it to a sorted array
+        // and make sure all of the values exist
         if (satSol != null) {
+            for (int s : symbols)
+                if (! (satSol.contains(s) || satSol.contains(s * -1)))
+                    satSol.add(s);
+
             int[] sol = new int[satSol.size()];
             int i = 0;
             for (int sym : satSol) {
