@@ -1,0 +1,1381 @@
+
+=====================================================
+
+Results for alpha_15.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_29.txt:
+
+=====================================================
+
+
+=====================================================
+
+K Q O H P  M I A J E  Y C R V L  N U S X D  T G F B W  
+U F S D R  Y O B H V  T G P Q X  L E K A W  I C M N J  
+W T I B Y  S U P Q C  F A K N D  J M G R V  L E X O H  
+N A G E C  X F D K L  I W M H J  T O Q P B  S U R V Y  
+V J X L M  T G N R W  B S E U O  Y F I H C  D Q P K A  
+
+L I Q Y A  V M X T P  C B F G E  K H N J S  U W O D R  
+B P M F K  J E W A Q  R L T I S  D G V U O  H X Y C N  
+E S J O V  U B Y G N  X K W D H  R A C I Q  F P L T M  
+R W D C N  L S H I F  O Q Y A U  M X E T P  J K B G V  
+T U H G X  K R C D O  V N J M P  W L B F Y  A I Q E S  
+
+O C B V S  R A F P T  K E X W G  H J D L N  Y M I U Q  
+F X N I H  B D L O S  Q P U R Y  C T W M E  K A V J G  
+M R T P W  G C U Y X  L D B J V  I Q A K F  O S N H E  
+G L Y J E  N Q K W I  A M H S C  U R O V X  B F T P D  
+A D U K Q  E J V M H  N O I F T  S P Y B G  C L W R X  
+
+X O F Q J  P H R U Y  E T V C K  G S M W L  N B D A I  
+Y M R T U  A K S E B  D I L P N  F V H Q J  W O G X C  
+C H V S G  F T I L D  U J A X W  O B R N K  M Y E Q P  
+I N L A D  W V M C J  G F O B Q  X Y P E U  R H K S T  
+P E K W B  Q X O N G  H R S Y M  A D T C I  V J U L F  
+
+S V A R T  C L Q X K  M Y D O F  E I U G H  P N J W B  
+H Y C X O  D N E B U  J V Q K R  P W F S M  G T A I L  
+Q B E U I  O P G F R  W H N L A  V C J Y T  X D S M K  
+J K W M L  H Y T S A  P U G E I  B N X D R  Q V C F O  
+D G P N F  I W J V M  S X C T B  Q K L O A  E R H Y U  
+
+=====================================================
+
+D E O Y P  M I A N J  Q C V G L  F U S H R  T K X B W  
+U F S Q G  Y O B H E  T M P R X  L D K A W  I C V N J  
+M R B C W  V U P Q L  F A K N D  J G T X I  S E Y O H  
+T L N H A  X S F K C  U W I J Y  M O V E B  D P R Q G  
+V J K I X  T G D R W  B S E H O  Y N Q P C  L M F U A  
+
+L K U T C  W M X E P  V B F A Q  R S N J O  H I G D Y  
+B P R F Y  L T U A Q  C E S I J  D H M V G  W X O K N  
+J S M X V  B F O G N  Y U W D H  K A I C E  P Q L T R  
+W A D E N  I K H S Y  O L R M G  Q X U T P  C V B J F  
+Q O H G I  J R C D V  K N T X P  W L B F Y  U A M E S  
+
+O W L K S  U A M P T  X G C Y F  H J D R N  E B I V Q  
+H B I A M  F D L O S  R P U Q E  C T Y W V  K J N G X  
+N Y T V R  E C K B X  L D J W I  A Q P G F  O S U H M  
+G C P J E  N Q V W I  A K H S B  U M O L X  R F T Y D  
+F D X U Q  R J G Y H  N O M V T  I B E K S  A L W C P  
+
+I Q F P J  O H R U B  S T Y C K  G E A M L  N W D X V  
+E M G O U  A X S T F  D I L P W  N V H Q J  B Y K R C  
+C H V S B  P W Y L D  E J X U N  T F R O K  M G Q A I  
+R N A L D  K E J C M  G Q O B V  X Y W I U  F H P S T  
+X T Y W K  Q V N I G  H R A F M  S P C B D  J O E L U  
+
+S G Q R T  C L W F K  P Y D O A  E I X U H  V N J M B  
+Y U C B H  D N E X O  J V Q K R  P W F S M  G T A I L  
+A X E N O  G P I M R  W H B L U  V C J Y T  Q D S F K  
+K V W M L  H Y T J A  I F N E S  B R G D Q  X U C P O  
+P I J D F  S B Q V U  M X G T C  O K L N A  Y R H W E  
+
+=====================================================
+
+Results for alpha_28.txt:
+
+=====================================================
+
+
+=====================================================
+
+A L D P Q  F U H J M  X O W K T  E G N B I  V Y C R S  
+X Y U T B  N E O R I  M L G C P  A W S K V  F H J Q D  
+I E N O K  L Y V C T  H U F J S  D Q X P R  B W G M A  
+R V F C J  G W S X Q  N B D A I  T M H L Y  K O E U P  
+G M S W H  P A B K D  R Y V Q E  F O U C J  X T I L N  
+
+U F Y M T  I P C H A  J N S G L  X E R O B  W V Q D K  
+B P G I R  M L F D W  E V X Y O  K C J Q H  U N A S T  
+J D C K N  U G X T Y  F H A M Q  L P V W S  I E B O R  
+V Q W H L  S O N E J  B I T R K  Y D G A U  M C P X F  
+E O X A S  V K R Q B  C D U P W  N I T M F  L J Y G H  
+
+M U I S O  R J Y B P  T A L N C  V K W X E  D G F H Q  
+T B L Y P  A F W G O  V K H I U  M N D S Q  E R X J C  
+F X A J V  C T M N K  P G Q E D  H R I U O  Y L S W B  
+C N H D G  E Q U V S  O X Y W R  J B L F P  A M T K I  
+K R E Q W  D X I L H  S J M B F  C T A Y G  O U N P V  
+
+O C V G Y  B R T A F  U Q E S J  W L K D M  N P H I X  
+W A K B F  H S L Y G  I T C O X  P V Q J N  R D M E U  
+S T Q L X  O M D P U  Y W N H B  I F E R C  J K V A G  
+P H J R E  X C Q I N  D M K L V  U S O G A  T B W F Y  
+D I M N U  J V K W E  A P R F G  B X Y H T  Q S L C O  
+
+L K R V M  Y D J O C  G F P X A  Q H B T W  S I U N E  
+Y S T U A  Q N E M X  L C B D H  R J P I K  G F O V W  
+N G P X C  K B A S V  W R I T M  O U F E L  H Q D Y J  
+Q J B F I  W H G U L  K E O V Y  S A C N D  P X R T M  
+H W O E D  T I P F R  Q S J U N  G Y M V X  C A K B L  
+
+=====================================================
+
+E I L J Q  F K H U S  P O A W T  G V X B C  M Y N R D  
+V D U P T  B E O R N  M L G C Y  A I S K W  X H J Q F  
+S B N O M  L Y C X I  R U J K F  D Q H P E  W V G A T  
+R F A C X  G W V J Q  B D I N H  T M U L Y  K O P S E  
+G K Y W H  P A M T D  S X V Q E  F J R O N  U B I C L  
+
+U R O M J  V P L K Y  E N S G I  X B W C H  F T Q D A  
+B E D L W  R G X C M  T A P Y O  K S J Q F  I N V U H  
+Y T S G N  A U E D H  F B X J Q  L P V M I  C W K O R  
+F Q C H I  S O J W T  L V D R K  N E G A U  B M Y X P  
+K P X V A  I N F Q B  H C U M W  Y O T D R  L J E G S  
+
+T U G R O  Y J W L P  N S F A C  V X K E B  D I M H Q  
+I Y W A P  X M B G O  V K H T U  J L D S Q  E R F N C  
+M J F D V  C T N S K  X P Q E G  H R I U O  Y L A W B  
+L C H S B  E Q U V A  J Y R I D  M W N F P  O G T K X  
+X N E Q K  D F I H R  O W M B L  C T A Y G  J U S P V  
+
+O L V K Y  M R T A F  U J E S P  B D Q W X  N C H I G  
+W A Q N F  O V S Y G  I T C H X  P K L J M  R D B E U  
+C S R T G  H L D P U  Y Q W O B  I F E N V  A K X M J  
+P H J B E  N C Q I X  D M K L V  U G O R A  T S W F Y  
+D X M I U  J B K E W  A G N F R  S C Y H T  Q P L V O  
+
+A M K E D  W X R B C  G I Y P S  O H F T L  V Q U J N  
+J V T U L  Q I G M E  C H B D A  R N P X K  S F O Y W  
+N O P Y C  K S A F V  W R T X M  Q U B G J  H E D L I  
+Q G B F S  U H Y N L  K E O V J  W A C I D  P X R T M  
+H W I X R  T D P O J  Q F L U N  E Y M V S  G A C B K  
+
+=====================================================
+
+Results for alpha_14.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_16.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_17.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_13.txt:
+
+=====================================================
+
+
+=====================================================
+
+U R H W M  J X G N K  L T B P I  D Q C A Y  O S E V F  
+Q D B C Y  U L M E W  N J K A V  P F O S I  T R X H G  
+N J V K P  H C S Q I  U W M O F  R E X T G  L Y A B D  
+E G I T L  P A B F O  Y R S D X  U V M W H  C K N J Q  
+A X S O F  R D Y T V  Q C G E H  L N K J B  U W M I P  
+
+C U X M A  O Q H W J  V E D I G  K R F Y N  B T P S L  
+L Q W N V  C K P U B  A M H J Y  S I D G T  E X R F O  
+J E G R B  I T A Y D  F O X S Q  C U P H L  M V W K N  
+P O F D T  M S R L G  W B N U K  A X E V Q  Y J H C I  
+H K Y I S  F E N V X  P L R T C  W M J B O  Q G D A U  
+
+B A E L J  Y N W O F  M U V G D  I T R P X  H C K Q S  
+W N M V K  D J Q C R  I H L F P  E S Y O U  A B G X T  
+I C U G D  K P E H T  R Y O X S  Q B A L M  V N F W J  
+R P Q F X  S V L A M  B N E W T  J G H C K  I O U D Y  
+O Y T S H  B G X I U  K Q A C J  N W V D F  P E L R M  
+
+M L R Q N  W Y C J E  S V U H A  T D G F P  X I B O K  
+K F C U E  N O D R L  J I T M B  H Y Q X W  G A S P V  
+D T J P I  V M U G S  X K F Y O  B A L E C  W H Q N R  
+Y S A B G  Q I K X H  D P C N W  V O U R J  F L T M E  
+V H O X W  A F T B P  E G Q L R  M K N I S  D U J Y C  
+
+G B N J U  E R V P Q  C D W K L  Y H I M A  S F O T X  
+F W D E Q  X U I S C  H A J V M  O L T N R  K P Y G B  
+T I L H R  G B F M Y  O S P Q E  X J W K V  N D C U A  
+X M P Y O  L H J K A  T F I B N  G C S U D  R Q V E W  
+S V K A C  T W O D N  G X Y R U  F P B Q E  J M I L H  
+
+=====================================================
+
+T R H W Y  J X G N K  L A B P I  U M C F E  O S Q V D  
+Q D L C M  U A B E W  N V K J T  P O I S Y  G R X H F  
+N J V K P  I C S Q H  U W M O F  R D X T G  L Y A B E  
+E G I U B  P L M F O  Y R S D X  Q W V A H  T C N J K  
+A X S O F  R D Y T V  Q C G E H  L N K J B  U W M I P  
+
+C O F M X  H Q N W J  V E D I G  K R P Y A  B T L S U  
+L Q W N V  C P R K B  A J H U Y  S I M G T  E X D F O  
+J A G B R  X T E Y I  S O P M Q  D U F H L  C V W K N  
+P Y U D T  F S A L G  W B N X K  C Q E V O  M J H R I  
+H K E I S  M O V U D  F L R T C  W X J B N  Y G P A Q  
+
+B C Q L J  Y N W A F  M U E G V  I T R P X  H O K D S  
+W N M V K  D J Q C R  I H L F P  E S Y O U  A B G X T  
+U I X G D  K E P H T  R Y O C S  A B Q L M  V N F W J  
+F P R T A  O V L S M  B N X W D  J G H C K  I E U Q Y  
+O E Y S H  B G X I U  T Q A K J  N V D W F  P L R C M  
+
+M L B Q N  W Y C J E  D K U H A  T F G R P  X I S O V  
+K U C F E  N M D R L  J I V S B  H Y O X W  Q A T P G  
+D T J P I  V K U G S  X M F Y O  B A L Q C  W H E N R  
+Y S A R G  Q I H O X  P T C N W  V E U D J  F K B M L  
+V H O X W  A F T B P  E G Q L R  M K N I S  D U J Y C  
+
+I B N J U  E R K P Q  C D T A L  Y H W M V  S F O G X  
+G W D E Q  S U I X C  H F J V M  O L A N R  K P Y T B  
+R M P H L  G B F V Y  O S W Q E  X J T K I  N D C U A  
+X F T Y O  L H J M A  K P I B N  G C S U D  R Q V E W  
+S V K A C  T W O D N  G X Y R U  F P B E Q  J M I L H  
+
+=====================================================
+
+Results for alpha_12.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_10.txt:
+
+=====================================================
+
+
+=====================================================
+
+O Q C E H  P D M R V  X B G Y A  N I L S U  W J T F K  
+U R L W B  Q N C J K  M V E D I  A F T H O  G P X Y S  
+M N J V K  U L B I A  Q F S W T  P D Y X G  R O H C E  
+X D A I G  E Y T F S  P N H C O  Q W K J R  B V M L U  
+F T Y P S  H X G W O  L U R J K  C B M V E  Q N A D I  
+
+Q U W C L  N G J V E  K M D B F  I A R P S  T H Y X O  
+B X N M J  C K U L Q  W E V I R  D Y O T H  F A S P G  
+K V E D A  B I R M Y  S O T H P  G J F L X  N U Q W C  
+G H S F T  D W P O X  N Q U A Y  M C E B V  J I L K R  
+I O P R Y  A S F T H  J G C X L  W U Q N K  M B V E D  
+
+L F U Q W  M B N K J  V I A E G  R P C Y D  H X O S T  
+N Y B J E  L U Q D W  T K F M S  H G X O A  V C I R P  
+C P V K D  I E O S G  B H Q R X  L T N W F  U M J A Y  
+A I T S R  F H Y X P  C L N O U  J V B K M  E D G Q W  
+H G X O M  V R A C T  D W Y P J  U S I E Q  K L F N B  
+
+J C Q U N  K M L B D  E P W G V  F X H I T  Y S R O A  
+E L K A V  G O I P F  Y C B U Q  S M W R N  X T D J H  
+R W D B I  X T H N C  A J K S M  Y O G U P  L F E V Q  
+T S F G P  J Q V Y R  O X I N H  B E D A L  C W K U M  
+Y M H X O  W A S E U  R T L F D  K Q V C J  I G P B N  
+
+P B G L U  R C X H I  F S J Q E  O K A M W  D Y N T V  
+W K R Y X  S J E A B  G D M V C  T N P F I  O Q U H L  
+V A O N Q  T P D U M  H Y X K W  E L J G C  S R B I F  
+D J I H C  Y F K G L  U A O T N  V R S Q B  P E W M X  
+S E M T F  O V W Q N  I R P L B  X H U D Y  A K C G J  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_11.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_4.txt:
+
+=====================================================
+
+
+=====================================================
+
+B Y S O M  A U H L Q  V J T K W  G X I D C  R P N F E  
+J G C L T  B X M N V  P E R F H  S A Y U K  W O I D Q  
+U N V K F  C W G R J  Q L B D I  E O T H P  X M Y S A  
+I P D W E  K T F Y S  M O U X A  Q N B V R  H L J C G  
+H Q A R X  E P O I D  S Y C N G  J W L F M  U K B V T  
+
+L B W U N  F C S M K  T V O P E  D G Q R H  Y X A J I  
+M J H V A  U Q L B N  I C X G D  O K F Y T  P E S W R  
+K D E Q I  J V R W O  U S L Y M  X P C N A  F B G T H  
+G O T C Y  X H E D P  R Q F A B  I J S W U  K V L N M  
+S R F X P  G A Y T I  W K H J N  V L M E B  D U C Q O  
+
+C X Q M L  N F U J E  K D A W S  B I O P Y  T R H G V  
+W U B E J  Q L C V X  G R M O Y  H D N T F  S I K A P  
+N V K I S  P D B A Y  F U Q H T  R E G X W  L J O M C  
+A F G Y H  W I T O R  J B P C X  L M V K S  Q D E U N  
+P T R D O  M G K S H  L N I E V  U C J A Q  B W X Y F  
+
+F C L B U  V M W K A  N I J Q R  P Y E S G  O H T X D  
+Q W M J V  L N I U B  C A Y S F  T H X O D  E G R P K  
+E S N T D  O R X Q G  H P V U K  C B A L J  M Y F I W  
+O A X G K  H Y J P F  E M D T L  W U R I V  N C Q B S  
+Y I P H R  T S D E C  X W G B O  M F K Q N  J A V L U  
+
+V L J A B  D K Q F T  O H W M C  Y S P G E  I N U R X  
+D K O F Q  I B N C W  Y G E R P  A T U J X  V S M H L  
+T H Y S C  R E P X M  A F K I U  N V D B L  G Q W O J  
+X M I N W  Y J V G U  D T S L Q  K R H C O  A F P E B  
+R E U P G  S O A H L  B X N V J  F Q W M I  C T D K Y  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_5.txt:
+
+=====================================================
+
+
+=====================================================
+
+Y D W V I  N P E M S  C Q G H A  L R K F U  X T J B O  
+X U Q L F  W R J V K  Y N E D I  G O T C B  A S M P H  
+B N A K J  U L Q X D  S V T O P  I H W M E  G F R C Y  
+R C M E H  B G T Y O  W K L F X  P V J A S  Q U D N I  
+G P T S O  A H C F I  U J M B R  Q N D Y X  L V E K W  
+
+C Q N U L  Y B W K J  M E D R G  A F I P H  T X S O V  
+W K B J M  Q U L C N  V A I P F  E T S X O  H D G Y R  
+H G E D V  M A R P X  T B O S K  U Y Q W C  N L I J F  
+A R I F P  V T O S H  N Y U X Q  J L G K D  B C W M E  
+T Y S O X  E D I G F  L C W J H  B M N V R  U Q K A P  
+
+M B C Q W  J N U E V  K F A T Y  D G R S I  O H P L X  
+L J K N E  C M A R G  Q D B V S  F X H O P  I Y U W T  
+U I R A T  L Y S D B  H X P G O  C Q M J W  V K F E N  
+V F D G S  O Q X H P  E I J U W  N K L T Y  M B A R C  
+P H O X Y  I F K T W  R L N C M  V E B U A  J G Q S D  
+
+N L U C B  K W M Q E  D G V Y J  R P X H F  S I O T A  
+Q W J I D  G C B U Y  F S K E N  O A V L T  R P H X M  
+K M F P A  T S V J R  X O H W U  Y D E I Q  C N L G B  
+S E H Y G  D X P O L  A R C I T  W B U N M  F J V Q K  
+O V X T R  H I F N A  B P Q M L  K S C G J  E W Y D U  
+
+J A V B U  R K Y L T  O W S Q C  M I F D N  P E X H G  
+E T L M Q  P J H B C  I U Y K V  X W A R G  D O N F S  
+I O G R C  F E N A U  P H X L D  S J Y B K  W M T V Q  
+D S Y W N  X O G I M  J T F A E  H C P Q V  K R B U L  
+F X P H K  S V D W Q  G M R N B  T U O E L  Y A C I J  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_7.txt:
+
+=====================================================
+
+
+=====================================================
+
+N A U C D  F H S E M  G P X L J  O B Q V K  I W Y T R  
+Q L B W M  J V K D I  C E A H Y  T U R S X  G P F O N  
+J X V E P  U C Q W R  T M O B N  G L I F Y  S K A D H  
+K I G T S  X P Y N O  U Q F W R  E J D H A  C L V B M  
+R F H Y O  L B A G T  S V K D I  C W M N P  U X Q J E  
+
+U Q C L B  W N V A K  J D E I G  R F P T S  H M X Y O  
+W N K V E  C U L M J  Q B P Y O  H G X A D  R I S F T  
+D J A I G  B R P O Y  H F T S X  U Q L C M  W N E V K  
+F R T M Y  E D X H S  L U C N W  J V K I O  Q A B P G  
+P H S O X  G I T Q F  M K R V A  B Y W E N  L J U C D  
+
+L U Q B W  M J F V N  K I D E P  A R C G T  Y O H S X  
+C M X J V  Q L U I B  W Y S F T  P N O K H  D E R G A  
+I D Y G F  K W O P A  R H U X Q  V S B L E  M T J N C  
+T O R H N  S E G X C  V L J A B  M I Y D U  K Q P W F  
+E S P K A  T Y D R H  N G M O C  W X J Q F  B U L I V  
+
+B V L U J  N M C F W  E A Q K D  Y T S R G  O H I X P  
+M C D S T  V Q B U G  F W L J H  X O N P I  A R K E Y  
+A P F N Q  D K J Y X  B O I R V  L E H U C  T G W M S  
+H Y O R K  A T I L E  P X G C S  D M V W J  F B N Q U  
+G W E X I  H O R S P  Y T N U M  K A F B Q  V D C L J  
+
+V G W Q H  Y A N K L  X J B M F  S P T O R  E C D U I  
+Y K N P U  O F M T D  A C V Q L  I H E J W  X S G R B  
+O T I F C  R G H B Q  D S W P E  N K U X V  J Y M A L  
+S E J A L  P X W C U  I R Y T K  F D G M B  N V O H Q  
+X B M D R  I S E J V  O N H G U  Q C A Y L  P F T K W  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_6.txt:
+
+=====================================================
+
+
+=====================================================
+
+N G H W T  F R L K V  U P M J E  O D A B I  Q C X Y S  
+U L C B M  J N E D A  I V K G W  S X Q Y T  O P R F H  
+Q J V A K  U C B W M  H S Y X O  R P N E F  D L I G T  
+R E X Y O  S Q P I T  B F A L D  U W H C G  M J N V K  
+I F P D S  Y G X H O  C Q T N R  L M J V K  U B W E A  
+
+W U B Q N  M J V A K  E D I F G  Y R P T H  S X O L C  
+C M Y K L  Q B W N E  J A P T H  V U S X O  I D F R G  
+J V E I A  C L D G F  W X R O S  K Q B M N  P U T H Y  
+G D R T P  H S O U X  V C Q Y L  W J I F A  B E M K N  
+F S O X H  I T R P Y  N M B K U  D C E G L  W V Q A J  
+
+L Q U M B  W K C J N  X G E P A  I V D R Y  F T H S O  
+V W N J D  L M Q E B  R T C H F  A G O S U  K I Y P X  
+E C A R Y  G U F V P  K O S I Q  B L T H X  N W J M D  
+K P F H I  D X T O S  L U W V Y  Q N C J M  E A G B R  
+T X S O G  A I H Y R  M N J D B  E K F W P  C Q L U V  
+
+B N Q U X  V E M C G  D L F W J  P A R O S  H Y K T I  
+M K L C F  B D N R Q  A E U S V  H T Y I J  G O P X W  
+A R D V E  T Y I L U  Q H O C P  G F X K W  J S B N M  
+P Y I S W  K O J X H  T B G R N  M E U L C  V F A D Q  
+H O T G J  P F A S W  Y K X M I  N B V Q D  L R U C E  
+
+Y B W L U  N P G T C  S J D Q K  X I M A V  R H E O F  
+X A J N Q  E W U F D  O Y H B M  C S K P R  T G V I L  
+D H G F C  R A K B J  P I V E X  T O L N Q  Y M S W U  
+S T K E R  O V Y M I  F W L A C  J H G U B  X N D Q P  
+O I M P V  X H S Q L  G R N U T  F Y W D E  A K C J B  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_2.txt:
+
+=====================================================
+
+
+=====================================================
+
+G I L S D  O B U V H  W Q Y C F  N K T X M  E A R J P  
+U Q B C M  L F N W K  J V E D I  A G R P Y  O H S T X  
+J N V K E  Q C D A G  P R T X U  H S F L O  B Y M I W  
+A W R F T  J E P X Y  H G S M O  B D V I C  U L Q N K  
+H P Y X O  R I M T S  A L B K N  U Q W J E  C V D G F  
+
+Q U W H B  M L J K V  C E N A D  I R Y S P  G F T X O  
+M K N J A  B Q C E W  U I L V R  X F G O T  P D H Y S  
+E D G Y F  T N A S P  Q B W O X  C U L M H  J K V R I  
+V L I O R  G H X F D  M Y P S T  Q B N K J  A E W C U  
+S X C T P  I Y R U O  K J F G H  W V A E D  N Q B L M  
+
+C E U Q L  W J V B N  D M K I A  R P O G F  H T X S Y  
+B A K N I  U D Q C L  E S O H G  Y X M T W  V J P F R  
+D R H M Y  E A I O F  T U X P B  S C J Q V  L G K W N  
+X J O P V  K G S M T  Y W R F Q  L N U H B  D C I E A  
+F T S G W  H P Y R X  N C V J L  E I D A K  Q M O U B  
+
+N C Q R J  D M T L E  V F I W Y  O H S B X  K P U A G  
+L M D U K  C V G Q A  S X J B P  F T E W I  R N Y O H  
+I B A V H  S O W J U  G K D N E  M L P Y R  T X F Q C  
+O G P E X  N K F Y I  R T H L M  V A C U Q  W S J B D  
+T Y F W S  P X B H R  O A U Q C  D J K N G  M I L V E  
+
+W F J L U  Y T K N B  I D G E S  P O H V A  X R C M Q  
+K V M B Q  F U O I C  L P A R J  G E X D S  Y W N H T  
+Y H E A C  X R L D J  B N Q T W  K M I F U  S O G P V  
+R O T I G  V S E P Q  X H M Y K  J W B C N  F U A D L  
+P S X D N  A W H G M  F O C U V  T Y Q R L  I B E K J  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_3.txt:
+
+=====================================================
+
+
+=====================================================
+
+O P J S X  E H R N D  T F Q M U  K V B A L  G Y C I W  
+F Q U L C  T S B W J  A V E G I  M D N Y O  X P H R K  
+I B W M K  Y C Q U L  J O S X H  E G P T R  N V A F D  
+N E A T Y  V G K X F  P B R C D  J I U H W  Q L O M S  
+D H G V R  P A I M O  K L W N Y  Q C S X F  T U B J E  
+
+Q U B C W  K L J V E  M A I D G  P R Y O N  H F S X T  
+M V K N J  Q B U C W  L E H R F  X T D G S  A O Y P I  
+E D I G F  N R A P S  U Y O T X  L B H W J  V C M K Q  
+T R L P A  D O X Y H  Q C V W S  F M E K I  J G N U B  
+Y X O H S  G M F I T  B N P K J  U Q C V A  L W E D R  
+
+U W Q B G  C J D H M  N K A F V  O E T P Y  R I L S X  
+L C M K V  U N W A G  E J Y I O  B X R S Q  F T D H P  
+J N E D I  L Q V R P  W U X S T  A H M F C  Y B K G O  
+P A R F O  S E Y T X  D H C Q B  G J I L K  U N V W M  
+S Y T X H  B I O F K  R G L P M  V N W U D  E A Q C J  
+
+R L C U B  M W E Q N  I P J Y K  S A F D H  O X T V G  
+W M N J E  A K C L R  S X D V Q  I O G B T  P H F Y U  
+X K V I P  H D G J B  O T F U A  C Y Q N M  W S R E L  
+A G S Y D  I F T O V  H M B L R  W U X E P  C K J Q N  
+H O F Q T  X Y P S U  C W G E N  R L K J V  M D I B A  
+
+B I D W Q  J V N G C  F S T O E  H P L M U  K R X A Y  
+C F P A U  R T M E Q  X D N B L  Y K V I G  S J W O H  
+G T X O N  W P H B Y  V Q K J C  D S A R E  I M U L F  
+V S Y R M  O X L K A  G I U H W  N F J Q B  D E P T C  
+K J H E L  F U S D I  Y R M A P  T W O C X  B Q G N V  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_1.txt:
+
+=====================================================
+
+
+=====================================================
+
+B U I K G  Q W M D C  F N O P R  T L V H J  S A Y X E  
+Q C L W M  F J U B N  V K E A Y  G D S O X  H T R P I  
+R E X S A  K Y V O P  T H J D I  Q U F C W  B G M N L  
+J V H P T  E X A I R  U Q S L G  B M N K Y  C D F W O  
+N D F Y O  H L G S T  C B M X W  I R E A P  U K Q V J  
+
+U Q C B L  W M N J K  D E I O A  V T P Y R  G X H S F  
+W N K E D  U C B A S  Q T L G F  H J I X O  R V P M Y  
+A T V O F  D Q L E G  H P Y R X  M N K S B  I C W J U  
+M I P H Y  V R O X F  B J W K S  D C U G Q  T N L E A  
+G S R J X  Y T P H I  M C N U V  E F W L A  K Q O D B  
+
+O W U F Q  C V J M E  N D X B P  K I Y R G  A L S H T  
+C B J L N  X K F U Y  W M G I H  S A T E D  P O V Q R  
+I M E V H  B D Q W A  K U R S T  L P O N F  J Y C G X  
+T A Y G K  N P S R L  O V C F J  U W X Q H  D E B I M  
+P X D R S  I G H T O  A L Q Y E  J B C M V  N F U K W  
+
+L K Q U C  M E X G W  J S V T N  P O B F I  Y R D A H  
+D O W M J  L F T P U  I A H E K  R Y Q V S  X B N C G  
+E G A T P  J N K Q H  R Y F M B  C X D W L  V U I O S  
+Y R N X V  S B I C D  G W U Q O  A K H T M  L J E F P  
+H F S I B  A O R Y V  P X D C L  N G J U E  W M K T Q  
+
+K J B C W  G A E N Q  L O P H M  Y S R D T  F I X U V  
+V Y O Q R  P I W K B  X G A N C  F H M J U  E S T L D  
+F P G D E  T H Y V M  S R K J U  X Q L I C  O W A B N  
+S H M A I  R U C L X  E F T W D  O V G B N  Q P J Y K  
+X L T N U  O S D F J  Y I B V Q  W E A P K  M H G R C  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_0.txt:
+
+=====================================================
+
+
+=====================================================
+
+P K D L B  G H U E W  J A O F I  R T N Q X  M C Y V S  
+U Q C W M  L B N J K  V E G D P  A I H Y S  F X T R O  
+N J V A I  Q D C R X  S U L T Y  B G O F M  K W P H E  
+E H T F X  Y P M S O  Q C N R B  L U W V K  J D A I G  
+G Y R S O  V A I F T  M W K H X  E J C D P  U L Q N B  
+
+Y U Q C F  M N B K J  L I E X A  G D P R T  W V S O H  
+L B M N H  U W Q C E  K J F G T  I A V S O  D P R Y X  
+W V K J E  D I H G R  Y O S P N  Q B M X C  A U L T F  
+A I G R P  S T X O Y  U Q D V W  N L F K H  E B M C J  
+D T X O S  F L V A P  C H B M R  J W Y U E  Q N K G I  
+
+Q M U K N  W J L D C  E V A Y G  F H R T I  B S O X P  
+B D A I J  N U E M G  R L Q C F  P S X O W  T H V K Y  
+T F S X L  R V A Y H  B P I U O  M K E N D  C G J Q W  
+O C W P G  K Q F T I  N D X S H  V Y L J B  R M U E A  
+V R E H Y  P X O B S  T M J W K  U Q A C G  L I F D N  
+
+C G L U Q  T E W V N  D B M O J  H P S I R  Y F X A K  
+I W N V D  C G K U M  P R Y Q E  X F J L A  S O H B T  
+M E P T A  J O R X L  F N H K S  D V B W Y  I Q G U C  
+F S O B K  H Y D P A  G X U I C  T M Q E N  V R W J L  
+J X H Y R  B F S I Q  A T W L V  O C K G U  N E D P M  
+
+K L B Q U  X M J N F  W G T E D  Y O I H V  P A C S R  
+R N J M C  E K G H U  I S V A Q  W X T P F  O Y B L D  
+H A F E W  I S T L D  O Y P J U  C R G B Q  X K N M V  
+S O Y G V  A R P Q B  X F C N L  K E D M J  H T I W U  
+X P I D T  O C Y W V  H K R B M  S N U A L  G J E F Q  
+
+=====================================================
+
+P K D L B  G H U E W  J A O F I  R T N Q X  M C Y V S  
+U Q C W M  L B N J K  V E G D P  A I H Y S  F X T R O  
+N J V A I  Q D C R X  S U L T Y  B G O F M  K W P H E  
+E H T F X  Y P M S O  Q C N R B  L U W V K  J D A I G  
+G Y R S O  V A I F T  M W K H X  E J C D P  U L Q N B  
+
+Y V Q C F  M N B K J  L I E X A  G D P R T  W U S O H  
+L B M N H  U W Q C E  K J F G T  I A V S O  D P R Y X  
+W U K J E  D I H G R  Y O S P N  Q B M X C  A V L T F  
+A I G R P  S T X O Y  U Q D V W  N L F K H  E B M C J  
+D T X O S  F L V A P  C H B M R  J W Y U E  Q N K G I  
+
+Q M U K N  W J L D C  E V A Y G  F H R T I  B S O X P  
+B D A I J  N U E M G  R L Q C F  P S X O W  T H V K Y  
+T F S X L  R V A Y H  B P I U O  M K E N D  C G J Q W  
+O C W P G  K Q F T I  N D X S H  V Y L J B  R M U E A  
+V R E H Y  P X O B S  T M J W K  U Q A C G  L I F D N  
+
+C G L U Q  T E W V N  D B M O J  H P S I R  Y F X A K  
+I W N V D  C G K U M  P R Y Q E  X F J L A  S O H B T  
+M E P T A  J O R X L  F N H K S  D V B W Y  I Q G U C  
+F S O B K  H Y D P A  G X U I C  T M Q E N  V R W J L  
+J X H Y R  B F S I Q  A T W L V  O C K G U  N E D P M  
+
+K L B Q U  X M J N F  W G T E D  Y O I H V  P A C S R  
+R N J M C  E K G H U  I S V A Q  W X T P F  O Y B L D  
+H A F E W  I S T L D  O Y P J U  C R G B Q  X K N M V  
+S O Y G V  A R P Q B  X F C N L  K E D M J  H T I W U  
+X P I D T  O C Y W V  H K R B M  S N U A L  G J E F Q  
+
+=====================================================
+
+Results for alpha_8.txt:
+
+=====================================================
+
+
+=====================================================
+
+F V I P G  C J X D H  W O B U T  S R K Y L  Q E A M N  
+C U L B W  K M N V E  J Q A X I  G F P D H  S R T O Y  
+Q M J D K  U L B W A  C R G S Y  V N O E T  X I H F P  
+N E A R T  F Q O Y S  L M V P H  U B X C I  W J K D G  
+H Y S X O  I G R P T  F N E D K  Q W J A M  B U C L V  
+
+L Q U W J  B N M K V  D E I G A  R C F T P  H Y S X O  
+B C O M N  Q E U J W  V L S R X  K D A H Y  I P F G T  
+K D E I S  A C G R F  U T Y H P  O Q V L X  M B W N J  
+V A G F P  X S T H Y  K C O Q B  W M I J N  R L D E U  
+R T H Y X  D I P O L  M W N J F  E U S B G  C Q V K A  
+
+A B Q C V  E K D M J  N I U F G  P T R S O  Y X L H W  
+W L N U E  G B Q C I  R V D K O  Y X H F J  T A M P S  
+J I P T D  L V A U R  S H X Y W  N K G M B  F O Q C E  
+M G F O H  S W Y T X  E J P A C  L V U Q D  N K R I B  
+S R X K Y  O H F N P  T B M L Q  A E C I W  U G J V D  
+
+E W C Q L  J U V B D  A K R M N  I H Y O F  G T P S X  
+D K M V U  W A H X N  P Y J I E  B S T G Q  L C O R F  
+O H Y J B  T P S G Q  X F L W V  C A N R E  D M I U K  
+G X R N I  Y F K L O  Q U T C S  M J D P V  E W B A H  
+P S T A F  M R E I C  B G H O D  X L W U K  J V N Y Q  
+
+I N W G Q  R D L E U  Y A C V J  F P B K S  O H X T M  
+T J B H A  V Y I S K  G X W E M  D O L N C  P F U Q R  
+Y O V S R  P T C Q G  H D F B U  J I M X A  K N E W L  
+X P K L M  H O W F B  I S Q N R  T Y E V U  A D G J C  
+U F D E C  N X J A M  O P K T L  H G Q W R  V S Y B I  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_9.txt:
+
+=====================================================
+
+
+=====================================================
+
+G E P F D  T U Q V Y  X N L H O  R W A B C  I M J S K  
+Q Y C U L  B W M J K  V E D T A  N I F P S  R G H O X  
+B J M W V  L C E N D  U Q I R S  H X G K O  T F A Y P  
+N A O S R  G H X I P  C B K J F  T Y M L E  Q V W D U  
+K X I T H  S A R F O  M P W G Y  Q U D V J  B L E N C  
+
+U Q L C B  W M P K N  J D E A I  V R H G X  S Y O T F  
+W V N M K  Q L H B U  G R T S X  F C Y O P  J E D A I  
+E G F A P  I X T R C  Y O V Q W  S J B N D  H K U L M  
+I S D R Y  J E G O A  K H N F P  L T Q U M  V W X C B  
+T H J X O  Y V D S F  B M U C L  E A W I K  P Q G R N  
+
+L U Q B W  M S N D J  A V P K G  O E C T R  Y I F X H  
+C O V N X  K Q U L B  E J H W R  Y F S D I  G T P M A  
+J T K E I  A R V W G  N F Y O M  U P X H B  C D L Q S  
+D M R P A  C F O Y H  S T X I B  K N L Q G  U J V W E  
+H F Y G S  E P I T X  Q L C U D  W M J A V  O B N K R  
+
+M L U Q F  N B W E V  I C J P T  X K R Y H  D A S G O  
+V C H J N  U K L Q I  O A S M E  G D T F W  X R B P Y  
+A B W K E  R J C X T  L Y G D V  M O P S U  F N I H Q  
+R I S O T  D G Y P M  F U Q X H  A B V E N  L C K J W  
+P D X Y G  F O A H S  R W B N K  C L I J Q  E U M V T  
+
+F W B D M  P N J U Q  H G R V C  I S K X Y  A O T E L  
+Y N E V U  H D S A R  W I F L Q  P G O M T  K X C B J  
+S K A H C  V I F M W  T X O B J  D Q E R L  N P Y U G  
+X P T I Q  O Y B G L  D K M E U  J H N C A  W S R F V  
+O R G L J  X T K C E  P S A Y N  B V U W F  M H Q I D  
+
+=====================================================
+
+Solution is unique
+
+=====================================================
+
+Results for alpha_20.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_21.txt:
+
+=====================================================
+
+
+=====================================================
+
+L S W J B  A H E U M  F V R D X  C N P G I  O K Q Y T  
+I U Y A C  L Q R P T  G S H O J  D K X B F  W M V N E  
+P H E M V  O J G C F  N A K Y Q  T R S L W  X B U D I  
+G Q F N K  I B S X D  U T C W L  O E M Y V  R J A H P  
+D O T X R  V W Y N K  B I E M P  H A U J Q  L S F G C  
+
+R L U F M  T S A G C  E N V K H  P X J W O  Y Q B I D  
+O A B V X  F U N Y R  P L J T I  E Q D K H  S W M C G  
+S C J G T  B L K V E  D W O Q R  A M Y I U  F X H P N  
+H K Q E P  W D J I O  Y C M X S  N B F V G  U L R T A  
+Y W D I N  M P X H Q  A B G U F  R L T C S  V E K J O  
+
+M Y L P F  N O T R G  S X U A V  K C E H J  Q D I W B  
+N B K W S  U A L M X  T H Q F E  Y I G O D  P V C R J  
+A T C D O  Y E V J S  W M I P K  Q U R X B  G N L F H  
+U R G Q E  H I B K W  C D N J Y  V P L F T  M O S A X  
+V X I H J  C F D Q P  O G L R B  M W N S A  T Y E U K  
+
+B M P L D  R V F A I  X Y T S G  W O H E K  J C N Q U  
+T F S Y U  J C M E H  V O A L D  I G B Q N  K R P X W  
+C G V R W  Q X O T N  K U B E M  J F A D P  H I Y L S  
+E J H K Q  G Y W D L  R P F I N  X S C U M  B A T O V  
+X I N O A  P K U S B  J Q W H C  L Y V T R  E G D M F  
+
+K E M U L  X G C O J  H R S B A  F T I N Y  D P W V Q  
+W P O B Y  S M H L V  I J X C T  U D Q A E  N F G K R  
+F V X S I  D T Q W Y  L E P N O  G H K R C  A U J B M  
+J N A C H  E R P F U  Q K D G W  B V O M L  I T X S Y  
+Q D R T G  K N I B A  M F Y V U  S J W P X  C H O E L  
+
+=====================================================
+
+L E W M B  D H S U N  F R V Y C  A T P J I  O K Q G X  
+U G S A I  L Q R P M  T D E B J  O K X C V  W Y F N H  
+R X P Y V  F O E C K  N A L I M  H Q S G W  J B U D T  
+C Q T N K  I B G X J  U H P W O  D F M Y L  E V A S R  
+D H F J O  T A Y W V  G S K X Q  R E U B N  L M P I C  
+
+T L U F M  Q S A G C  E N J K X  V I R W O  Y D B H P  
+W A B V R  O U H Y T  P L Q D I  E J C K F  S N M X G  
+S C G X Y  N L B V E  H U T O R  P M D Q A  F J I W K  
+O K Q E P  W D J I F  Y M C V S  B N H X G  U L R T A  
+H J D I N  M P X K R  B W G A F  T L Y S U  V E C Q O  
+
+P Y L O F  B K T R G  S X H Q W  U C J M D  N I V A E  
+N B K W S  V X P M O  A E U F T  Y R G I H  C Q L J D  
+A T C R D  Y E U J S  L K I M V  Q P O N B  G X H F W  
+G U E Q X  H I L N W  C P D J Y  K A V F T  M O S R B  
+V M I H J  C F D Q A  O G N R B  W X L E S  P T K Y U  
+
+B R O L T  J Y F A P  X I M S G  N D E V K  H C W U Q  
+Y F J P U  X W M H I  V O A L D  C G B T Q  K R N E S  
+M D V G W  U R O T Q  K C B E N  J S A H P  X F Y L I  
+E S H K Q  G C N D L  R Y F T P  X W I U M  B A J O V  
+X I N C A  E V K S B  J Q W H U  L Y F O R  T G D P M  
+
+Q N A U E  R G I O H  M T S C K  F B W L Y  D P X V J  
+F P Y B C  S M V L D  I J X U H  G O Q A E  R W T K N  
+K W X S L  P J Q E Y  D V O N A  M H T R C  I U G B F  
+J O M D H  K T W F U  Q B R G L  I V N P X  A S E C Y  
+I V R T G  A N C B X  W F Y P E  S U K D J  Q H O M L  
+
+=====================================================
+
+Results for alpha_23.txt:
+
+=====================================================
+
+
+=====================================================
+
+Y U Q X H  F E N W I  P J T R M  K C S V G  B D A L O  
+L P O W F  Y T R S D  B A C K V  X Q N J U  M I E G H  
+M R T V S  L O A C P  G D X E Q  B F H I Y  K U J W N  
+B J I G E  U K X Q H  N O Y L F  W D A R M  C V T S P  
+K C A N D  B V J G M  U H I W S  O L E T P  Y X Q R F  
+
+C L U O Y  I B F J T  S P G N R  E V K M W  D A H Q X  
+J A N M K  O W H U S  E V L Q X  I T D F C  G B Y P R  
+S E H P G  M C K R V  T Y D J A  L U B X Q  N O F I W  
+F B W T Q  A P D X L  I U K C H  R O Y G N  E M S V J  
+X V R D I  G Q E N Y  M F W O B  J H P S A  T L C U K  
+
+O K L U A  R G M B C  Y Q P S T  V J X N H  W E D F I  
+E M Y R W  T S O A J  K G H F C  U P I L D  X Q V N B  
+P F B S V  X Y L E K  D N U I W  C A T Q O  R J G H M  
+T G D C N  V H I P Q  L R E X J  F Y M W B  O S U K A  
+Q H J I X  N F U D W  A B M V O  G K R E S  L C P T Y  
+
+A N M Y T  E L B O G  Q S F H I  P R V D K  J W X C U  
+I D V B R  J N S M F  C X A P G  Y W L U T  Q H K O E  
+U S C F L  W I Y H R  J E B T K  Q G O A X  P N M D V  
+G O X E P  C D Q K A  V W N U L  S M J H F  I Y R B T  
+W Q K H J  P X T V U  R M O Y D  N E C B I  S F L A G  
+
+R T S A U  H M P Y X  F I J G N  D B Q O L  V K W E C  
+D W F J O  K U C I B  X L V A P  T S G Y E  H R N M Q  
+N X G K M  Q J V L E  H C S B U  A I W P R  F T O Y D  
+V I E L C  D R G F O  W T Q M Y  H N U K J  A P B X S  
+H Y P Q B  S A W T N  O K R D E  M X F C V  U G I J L  
+
+=====================================================
+
+Y B K Q X  N E H L I  P J T W M  O C S V G  R D A F U  
+L J O P F  S D R T W  B Y C G V  A X N K U  M I E Q H  
+M R T V H  U G A O P  D S K L Q  B F E I Y  X C J W N  
+U C A G E  Y K X Q M  N O I R F  W D H T J  L V B S P  
+S I N W D  F B J C V  U H A X E  Q L P R M  Y G T K O  
+
+E L B O U  I R F P T  S A G C N  Y V K M W  D X H J Q  
+J A R F K  O U M W S  Y V L T X  E Q D H C  I N G P B  
+P V S T G  Q C K H A  W M D J B  L U I X N  E O F Y R  
+C H W N Q  B Y D X L  I P E U R  J G T O F  K M S V A  
+X D Y M I  G V E N J  K F H Q O  P R B S A  T L C U W  
+
+O E L U A  M Q Y B C  F R P S K  V J X N H  W T D G I  
+B M C R P  T F O A H  X U Y E G  I K W Q D  J S V N L  
+K F D X V  R W L E G  C N J I T  U A O P S  B Q Y H M  
+T G H S N  V J U I K  L Q W D A  C Y M F B  O E P R X  
+Q W J I Y  X P S D N  V B M O H  G T R L E  C F U A K  
+
+A U M Y T  P L B R E  Q G F H I  N O V D K  S W X C J  
+F N V B J  A S G M O  T X U P C  R W L Y I  Q H K D E  
+D S G C L  W I T K F  R E B N J  X H U A Q  P Y M O V  
+I K X E O  C H Q Y D  A W S V L  F M J G P  N U R B T  
+W P Q H R  J X N V U  M K O Y D  S E C B T  F A L I G  
+
+R T U A M  H O P S X  G I N F W  D B Y J L  V K Q E C  
+G Y I J W  K M C U B  O D X A P  T S Q E V  H R N L F  
+N X F K S  L T V J Y  E C Q B U  H I G W R  A P O M D  
+H Q E L C  D N I F R  J T V M Y  K P A U O  G B W X S  
+V O P D B  E A W G Q  H L R K S  M N F C X  U J I T Y  
+
+=====================================================
+
+Results for alpha_22.txt:
+
+=====================================================
+
+
+=====================================================
+
+N B O F V  L T E Q K  C P Y S H  D U I G R  W X M J A  
+U M R A P  G N F C I  B V Q X L  W O J S E  Y T D H K  
+Y S C G D  A B R P J  W T K U O  M Q N X H  V E L I F  
+T X L K J  H S O W M  A D I E R  F C P V Y  N G U B Q  
+E W H I Q  U Y V D X  F M G J N  L A B T K  S O R P C  
+
+L Y U O F  B W M T P  X G R V S  C E K N I  A H J Q D  
+M A B S C  R L U Y F  K O T N P  H J D Q W  E V G X I  
+R P G J X  V K N E Q  I W H D C  Y L O U A  M B F S T  
+V K N W T  C G I H D  E A M Q J  B S F P X  R L Y U O  
+I D E Q H  X J A S O  L Y B F U  R T G M V  P C N K W  
+
+A L Y U O  D F X B R  T C S M V  P W E K G  H Q I N J  
+B F M R S  Y H L O A  P N U I Q  T V X D J  K W E C G  
+P C V X G  K U S N E  H J W L F  Q B Y I M  O D A T R  
+K T Q E N  M I P J W  D R X Y G  U H A O C  L S B F V  
+D J I H W  T C Q G V  O K A B E  S R L F N  U M P Y X  
+
+F U T D L  S O J M Y  G B C R K  V X W H P  I A Q E N  
+O R P Y M  F E B L U  S Q N A X  I G C J T  D K V W H  
+S I K C B  W Q D X N  V L O H Y  E F M A U  J R T G P  
+Q G X V A  I R T K H  J E D P W  O N S Y L  F U C M B  
+J H W N E  P A G V C  U I F T M  K D R B Q  X Y O L S  
+
+W O F L Y  Q V C U B  M S J K I  X P T R D  G N H A E  
+C V S B R  E M Y I G  N H P W A  J K Q L O  T F X D U  
+X Q J M U  N D K A T  Y F V O B  G I H E S  C P W R L  
+G N D P K  J X H R L  Q U E C T  A Y V W F  B I S O M  
+H E A T I  O P W F S  R X L G D  N M U C B  Q J K V Y  
+
+=====================================================
+
+E B O F V  L T Y Q K  A P U S H  D C I G R  N X M J W  
+N M R A P  G O F C I  B V Q L X  W U J S E  Y T D H K  
+U S C G D  A B R P J  W T K Y O  M Q N X H  V E L I F  
+T X L K J  H S E W M  C D N I R  F O P V Y  A G U B Q  
+Y W H I Q  U N V D X  J M G E F  L A B T K  S O R P C  
+
+L Y U O F  B M A T P  X G R V S  C E K N I  W H J Q D  
+M A B S C  R L U Y F  O K T N P  H J D Q W  E V G X I  
+R P G J X  V K N E Q  I W H D C  Y L O U A  M B F S T  
+V K N W T  C G I H D  E A M Q J  B S F P X  R L Y U O  
+I D E Q H  X W J S O  L Y B F U  R T G M V  P C N K A  
+
+A L Y U O  D F X B R  T C S M V  P W E K G  H Q I N J  
+B F M R S  Y U L O A  H N I P Q  T V X D J  K W E C G  
+P C V X G  K H S N E  F J W U L  Q B Y I M  O D A T R  
+K T Q E N  M I P J W  D R Y X G  U H A O C  L S B F V  
+D J I H W  T C Q G V  K O A B E  S R L F N  U M P Y X  
+
+F U T D L  S J O M Y  G B C R K  V X W H P  I A Q E N  
+O R P Y M  F E B L U  S Q X A N  I G C J T  D K V W H  
+S I K C B  W Q D X N  V L O H Y  E F M A U  J R T G P  
+Q G X V A  I R T K H  P E D J W  O N S Y L  F U C M B  
+J H W N E  P A G V C  U I F T M  K D R B Q  X Y O L S  
+
+W O F L Y  Q V C U B  M S J K I  X P T R D  G N H A E  
+C V S B R  E Y M I G  N H P W A  J K Q L O  T F X D U  
+X Q J M U  N D K A T  Y F V O B  G I H E S  C P W R L  
+G N D P K  J X H R L  Q U E C T  A Y V W F  B I S O M  
+H E A T I  O P W F S  R X L G D  N M U C B  Q J K V Y  
+
+=====================================================
+
+Results for alpha_26.txt:
+
+=====================================================
+
+
+=====================================================
+
+O L U X H  J A D R P  T B E F V  S Q I W C  M K Y G N  
+Q E T F V  U M Y C W  P S R G L  N B K H D  A I X O J  
+M B G S C  O H K V Q  N U Y W I  J A F E X  R L P T D  
+P D W A J  B E F I N  M X Q K O  T Y L R G  H S U V C  
+Y K N R I  L G T X S  H A J C D  U O M P V  Q W E B F  
+
+W Y H L U  M F O G I  R K T P S  X C V N A  J B D E Q  
+K O F I T  A U B N H  L G X E C  D S R J Q  P Y M W V  
+V X E B D  S W R Y C  U M F J Q  I T O K P  N H L A G  
+G P A N S  V X Q J D  W O H I B  L U Y M E  K F C R T  
+J M C Q R  K T P E L  V N A D Y  G W H B F  U O I X S  
+
+A Q Y M F  R C L T V  B E S U G  K X P O H  D J N I W  
+L T P D X  Y O N A F  K V I H M  W R J U B  C G S Q E  
+S U O G K  X D J H M  Q P C N W  Y V E I T  L R B F A  
+N V J E W  G Q I B K  Y R D A T  M F S C L  X U H P O  
+H I R C B  W P S U E  F L O X J  A G D Q N  Y T V M K  
+
+U W L Y O  P S A M B  G C K T R  V N X F I  E D Q J H  
+R G M T P  E Y U L O  X F N B H  Q K W D J  S V A C I  
+C A V J E  D I X F T  S Q W Y P  H M U L R  G N O K B  
+X F I K N  H V C Q R  D J U L A  B E G S O  T M W Y P  
+B S D H Q  N J W K G  O I M V E  C P A T Y  F X R L U  
+
+F N B U L  C K H P Y  E D G R X  O I T A W  V Q J S M  
+D R Q O Y  F B G S A  J W L M U  P H C V K  I E T N X  
+T C K V M  I N E O X  A H B S F  R J Q Y U  W P G D L  
+I J S W G  Q R V D U  C T P O K  E L N X M  B A F H Y  
+E H X P A  T L M W J  I Y V Q N  F D B G S  O C K U R  
+
+=====================================================
+
+E L U N H  P A D R S  X T Y F B  J Q C W I  O K M G V  
+W F O Q V  U M T C G  P S E R I  N B K H D  L X A Y J  
+Y B M S C  O L H V Q  K U G W J  P A F E X  R I N T D  
+P D X A J  F E K I B  M Q N O V  T Y L R G  H S U W C  
+T G R K I  J Y N X W  H A D C L  U O M S V  Q E P B F  
+
+B Y K L U  M F O G I  C W T P S  X R V N A  J H D E Q  
+N O W I T  A R B L C  U G F E X  H S D J Q  P Y K V M  
+V E H P X  S W Y D U  R M J B Q  I T O K C  N G L F A  
+F A G D S  Q X V J N  L K H I O  M U Y P E  B W C R T  
+J Q C M R  K T P E H  V N A D Y  L W B G F  U O I X S  
+
+A P Y O D  R C L T V  B E S U G  K X Q M H  I J F N W  
+L X E R B  Y O I A F  N V K T M  W D J U P  C Q S H G  
+S U N G K  W B J H M  F P Q X C  Y V I O T  D L R A E  
+M V J T W  D Q G N K  Y R I A H  E F S C L  X U B P O  
+H I Q C F  X P S U E  W L O J D  A G R B N  Y T V M K  
+
+U T A Y O  N S F M L  G C W K R  V H X I B  E D Q J P  
+R M L H P  E G U Y O  S F B N T  Q K W D J  A V X C I  
+C J V F E  T I A W D  Q H X Y P  S M U L R  G N O K B  
+X K I B N  H V C Q R  D J U L A  G E P F O  T M W S Y  
+G S D W Q  B J X K P  O I M V E  C N A T Y  F R H L U  
+
+O N B U L  C K M P Y  E X R G W  D I T A S  V F J Q H  
+D R F E Y  G H Q S A  J O L M U  B P N V K  W C T I X  
+Q W T V M  I N E O X  A B C S F  R J H Y U  K P G D L  
+I C S X G  V U R B J  T D P H K  F L E Q W  M A Y O N  
+K H P J A  L D W F T  I Y V Q N  O C G X M  S B E U R  
+
+=====================================================
+
+Results for alpha_27.txt:
+
+=====================================================
+
+
+=====================================================
+
+K G E H P  O Q C R U  M V T D X  J S A N W  F I Y L B  
+D Y S M V  L F X P G  A R C B N  U E H O I  J T Q K W  
+R W O N Q  Y S T A B  J H K F I  M P C L V  U X D G E  
+L X F I T  J N M K V  E O W G U  D Q R Y B  S C A P H  
+U C J A B  E W D H I  Q P Y S L  K X F G T  O R M V N  
+
+F E L Y U  A O S T R  P X J H C  G N K V M  I W B D Q  
+H N B X K  M I L J W  Y U O Q G  R F D A S  T P E C V  
+P I T S C  N K G D H  V B L W M  O J Q X E  A Y R U F  
+A R G J W  V C B F Q  D E S N T  Y I P U H  X L O M K  
+Q O V D M  P X U Y E  F I R A K  T B L W C  N H J S G  
+
+M A P B Y  D E O U F  L J G V R  X C T S K  H Q N W I  
+X J C R F  B M P L N  T Y I K A  V H W Q D  E G S O U  
+G L K E S  H Y R I T  X W Q C D  F U N B O  M J V A P  
+V T N Q H  K A W G C  B M U O S  E R J I P  Y D X F L  
+I U D W O  X V J Q S  H F N E P  L Y G M A  B K C R T  
+
+B M U T A  F R V O D  C K H P W  S G I J X  Q E L N Y  
+C D Y P E  U L A M X  R G B J F  Q T V H N  K O W I S  
+O F Q L N  S P H C Y  I T D X E  B W M K R  V U G J A  
+J H W G R  I B E N K  S Q V L O  P A Y D U  C M F T X  
+S K I V X  T G Q W J  N A M U Y  C L O E F  R B P H D  
+
+T P M O J  C H N B L  G S E Y V  W K U F Q  D A I X R  
+Y Q R F L  G U I X O  K N P T B  A D S C J  W V H E M  
+W B H U I  R T Y E A  O D F M J  N V X P G  L S K Q C  
+N S A C D  Q J K V P  W L X R H  I M E T Y  G F U B O  
+E V X K G  W D F S M  U C A I Q  H O B R L  P N T Y J  
+
+=====================================================
+
+A G E H P  O Q B R D  L V X J S  N F W K M  Y C T I U  
+U Y O M W  S F T P G  A I C R N  V E H X B  J Q D K L  
+R Q I N T  Y W V A U  M H K F D  S P C J L  B X O G E  
+K X F B V  J N C M L  E T Q G U  O D R Y I  S H A P W  
+L C J S D  E K X H I  B P Y W O  A Q U G T  F R M V N  
+
+S E L F M  A T N J R  V X B H C  G U K O Y  I W Q D P  
+N K B A Y  M X L D W  O U R Q G  J I F P S  T E H C V  
+P I T X O  V B G K H  Y D M S L  R C Q W E  A N J U F  
+H R G J U  C Y S F Q  P E I N W  T V A D X  O L B M K  
+Q W V D C  P I U E O  F J T A K  L B M N H  R Y X S G  
+
+C M Y K B  D E O T F  Q L G I R  X W P S V  H U N A J  
+X U N W F  B M P L V  T Y J K A  Q H G I C  E D S O R  
+G O A T H  R U Y I N  X W S C E  F J D B K  M P V L Q  
+V S P Q J  K A H W C  D M N U B  E R L T O  X G I F Y  
+I L D E R  X J Q G S  H F O V P  U Y N M A  W K C B T  
+
+B H U R A  F S J O X  C K V P Y  M G I E N  Q T L W D  
+M D C P E  U V A B T  R G L X F  K S J Q W  N O Y H I  
+O F K L N  H P W C Y  I Q D E T  B X V A R  U M G J S  
+J T W G Q  I R M N K  S A U O H  P L Y F D  V B E X C  
+Y V S I X  L G D Q E  N B W M J  C T O H U  K F P R A  
+
+D P M O I  T H R U J  G S E Y V  W K B L Q  C A F N X  
+T J R U L  G O I X A  K N P B Q  Y M S C F  D V W E H  
+W B H Y K  N C E V P  J O F T I  D A X U G  L S R Q M  
+F A X C S  Q L K Y B  W R H D M  I N E V P  G J U T O  
+E N Q V G  W D F S M  U C A L X  H O T R J  P I K Y B  
+
+=====================================================
+
+Results for alpha_19.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution
+
+=====================================================
+
+Results for alpha_25.txt:
+
+=====================================================
+
+
+=====================================================
+
+S G K Q J  B R N A V  M U O D P  L W Y T E  I X C F H  
+L T I D O  C P U M F  J Y S A G  H X B V Q  R E W N K  
+U W A V C  I O G X Y  R B Q E H  N S K F P  L J D M T  
+P X M B F  S E K D H  I T N L W  J C U O R  G Q A Y V  
+H E N Y R  J W T Q L  C K F V X  M I A D G  U O S P B  
+
+Y L O F U  P M B J E  N X G C Q  T K R S A  H V I D W  
+K B V I P  N Y F G R  O S M T D  U E H W C  Q A L X J  
+M Q J G E  A L W U S  Y R H I K  X D F P V  N B T C O  
+T S X C W  Q D H V I  U A L F E  Y O N J B  M R G K P  
+N H D R A  K X C T O  B J P W V  G M Q L I  Y F E S U  
+
+C K G M B  T V S R P  L I Y O J  A U D N X  F H Q W E  
+X R T L N  O F A B C  S W E G U  Q V J Y H  K P M I D  
+F O W A Y  U J E I Q  H D V N R  P B C M K  T S X G L  
+V U H E I  Y K M W D  A P X Q F  R L S G T  J N O B C  
+J D Q P S  G N L H X  K C T B M  W F I E O  A Y V U R  
+
+Q F L U G  H B Y C A  X M K J S  I T E R D  V W P O N  
+A M Y J T  L G O K U  D F W R N  V P X C S  B I H E Q  
+R C B K X  E Q J P W  V O I Y L  F G M H N  S D U T A  
+D P S W V  R I X N M  Q E B H T  O A L K U  C G F J Y  
+O I E N H  V S D F T  P G A U C  B J W Q Y  X K R L M  
+
+G A R O Q  M U P E N  F V J S B  C Y T X W  D L K H I  
+E N P S L  X C I Y K  G Q U M O  D H V A J  W T B R F  
+W J U H D  F A V S G  T L R K I  E N O B M  P C Y Q X  
+B V F X M  D T R O J  W H C P Y  K Q G I L  E U N A S  
+I Y C T K  W H Q L B  E N D X A  S R P U F  O M J V G  
+
+=====================================================
+
+B G S K D  R F N U V  M W O Q P  L J T I E  Y A C X H  
+F Y I O J  T A C L P  U K S D G  H X B V Q  E N W R M  
+U W M A V  Y O D X G  R B I E H  P S C F N  K Q L T J  
+L E C P X  Q M K S H  A Y N T J  W R U O D  G V F B I  
+H N Q T R  J W E I B  L C F V X  M K A Y G  U O S P D  
+
+P L V F E  A K B J I  Y N G O Q  C U M W R  H S T D X  
+X B Y I W  P L U O N  F S M A V  T G H D J  Q K R E C  
+O Q U G M  C Y W E T  D R H L K  X B F S V  J I A N P  
+C H K J A  M D R Q S  B T U X E  Y I N P O  V W G F L  
+N T D R S  H X V G F  C P J W I  K E Q L A  B M O Y U  
+
+M O G C I  K S T V X  J A Y B R  Q L D N P  F H U W E  
+Y R T L N  O E A D C  S Q W G U  F V J H K  M P X I B  
+V K W S B  U J F P Y  H D E N L  A C I M X  T R Q G O  
+Q U A E H  I N M B W  P O X C F  R Y S G T  L J D V K  
+J P X D F  G R L H Q  K V T I M  U W O E B  A Y N C S  
+
+S J L U Y  B T H W A  X G K P D  I M E Q C  R F V O N  
+A M E V T  L P G Y U  I F C R O  N D X K S  W B H J Q  
+R C B X P  E Q J N K  V M L Y W  O F G T H  S D I U A  
+D F N W O  S I X R M  Q E B H T  V A L J U  C G P K Y  
+K I H Q G  V C O F D  N J A U S  B P W R Y  X E M L T  
+
+G A O M Q  F U Y T R  E L V S B  J N P C I  D X K H W  
+E S P Y L  X V Q C O  G U R J N  D H K A W  I T B M F  
+W X J H U  N G S K L  O I D F A  E T V B M  P C Y Q R  
+T V F N C  D B I M J  W H P K Y  S Q R X L  O U E A G  
+I D R B K  W H P A E  T X Q M C  G O Y U F  N L J S V  
+
+=====================================================
+
+Results for alpha_30.txt:
+
+=====================================================
+
+
+=====================================================
+
+G N R P M  H A T U K  V J Y L D  E I S F Q  X W C B O  
+J W Q O L  M B D F Y  P G U C R  V K A H X  N S T I E  
+F A B D T  I P R O W  S N X E Q  C M L U Y  V H K G J  
+C V X E Y  L Q G J S  B K I O H  W N R D T  M F A U P  
+U S K I H  N C V E X  M A F T W  O B J G P  R L Y Q D  
+
+L U J S O  G K A R B  H V C X F  Y T E N W  Q M P D I  
+H D F W G  E M Y C L  O U T P N  B J Q X I  S A R V K  
+T K Y A X  Q S O W U  L R B I G  P H D M V  F E J N C  
+N C P B R  V J F I D  Y W M Q E  A G O K S  T X L H U  
+M Q I V E  X H N P T  A D K J S  F U C R L  B G O Y W  
+
+A Y C K U  O T L D H  F S R M P  X E G V N  W B I J Q  
+E P G F V  Y U M B C  X O W D J  T Q H I A  L N S K R  
+I L M X J  R N S V Q  G T H K A  D W F C B  E P U O Y  
+O H D R Q  A I W X F  N E L B Y  S P K J U  C T G M V  
+W B S T N  J G E K P  C I Q U V  R L Y O M  A D X F H  
+
+S O A Y C  K R J Q N  T H P W U  L F B E G  D I V X M  
+B M T H I  W Y P L G  R C V F X  N D U A O  J K Q E S  
+R F U N P  D E C S V  I Y A G M  K X W Q J  H O B L T  
+V G E J W  B O X T I  K Q D N L  H S M Y C  P U F R A  
+K X L Q D  U F H M A  E B J S O  I V P T R  G Y W C N  
+
+Q R V M F  T L U Y J  W X O H I  G A N P E  K C D S B  
+P E H C A  F W B G R  J M S Y K  Q O I L D  U V N T X  
+X I N G B  S D Q A O  U F E R T  M C V W K  Y J H P L  
+Y J W L K  C X I N M  D P G V B  U R T S H  O Q E A F  
+D T O U S  P V K H E  Q L N A C  J Y X B F  I R M W G  
+
+=====================================================
+
+G D R P M  H S T U W  V J B L N  E Q A F Y  X C K I O  
+W U L O K  M B A F P  Y I G C E  V T R X H  N S D Q J  
+N A B X T  L K R I Y  P D O S Q  W M J U C  V H F G E  
+C V F E Y  N Q O J D  U K X T H  L S B G I  M W R A P  
+J S Q I H  G C V E X  M A R F W  O K N D P  B L Y T U  
+
+L T Y N O  V M F R K  G C J X U  B E S H W  Q A P D I  
+R B W D F  E I Y C U  H M T P O  N J Q A G  S X L V K  
+A J G K X  Q P S O H  L W V I R  Y U D M T  F E B N C  
+S Q P V U  A J W B L  N E D Y F  C I O K X  T G H M R  
+H E I M C  D G X N T  A B S Q K  P F V R L  Y J O U W  
+
+M Y A U R  O T C H N  E S F K P  X L G V B  W D I J Q  
+E C O L V  Y U M D Q  X G W N J  T P H I A  R B S K F  
+T N J B G  R L K X S  C V H A I  D W F Q E  O M U P Y  
+X H D W Q  I A B P F  O R L M Y  S N K J U  E T G C V  
+I K S F P  J V G W E  B T Q U D  R C Y O M  A N X L H  
+
+O G C Y S  U F J K R  T H P W B  M A E N Q  D I V X L  
+B M T A I  W Y P L V  R F N G X  H D U C O  J K Q E S  
+D P U R W  C E Q S G  I Y A J M  K X L B V  H O N F T  
+V X H J E  B N D T I  K Q C O L  F G W Y S  P U A R M  
+K F N Q L  X O H M A  S U E D V  I R P T J  C Y W B G  
+
+F L M H D  T R I Y J  W X U V A  G O C P N  K Q E S B  
+P R X S N  F W E G M  J O K H C  Q B I L D  U V T Y A  
+Q I E G B  S D U A O  F N Y R T  J V M W K  L P C H X  
+Y W V C A  K X L Q B  D P M E G  U H T S R  I F J O N  
+U O K T J  P H N V C  Q L I B S  A Y X E F  G R M W D  
+
+=====================================================
+
+Results for alpha_24.txt:
+
+=====================================================
+
+
+=====================================================
+
+O C S F X  U W T Q N  E K P L G  B D I A Y  M J H V R  
+U M A N E  J Y R S P  T V D F B  H C L X K  I Q O G W  
+K H Y B L  F X G D V  I Q S M U  J W O P R  T E A C N  
+R V T W D  O M I H L  N C J A X  G Q E U S  B F Y K P  
+J P G Q I  A K C E B  R O W Y H  N M T F V  X L D U S  
+
+F W O D N  B A U C M  P H G R I  S X K J T  V Y L E Q  
+A Y U S P  D L F O J  B T E N M  V H G Q I  R K C W X  
+M T I K V  X R N Y H  U S C Q J  L A W E P  O D F B G  
+E L J H Q  K G S W I  A X F V D  Y O B R C  U T N P M  
+C R B X G  T E V P Q  O L K W Y  M N U D F  S H I A J  
+
+B I L U S  V Q O A C  M P T X E  R J F N G  H W K Y D  
+T J P A M  R U Y N G  V F O C K  X I D W H  L S B Q E  
+G Q C E R  L T W F X  D N B H S  P K V Y M  A I U J O  
+H X K V Y  M P D B S  J W L I Q  T U A O E  F G R N C  
+W D N O F  E I H J K  G R Y U A  C S Q B L  P X T M V  
+
+Y U W L O  G S P M R  C B A K V  D F J T Q  E N X I H  
+P B E M C  I O J L Y  S G X T N  K V R H A  Q U W D F  
+S A V R K  H C B X F  W E Q D L  I P N G U  J O M T Y  
+Q N F T J  W D A K U  Y I H P O  E B M S X  G C V R L  
+X G D I H  N V Q T E  F U M J R  O Y C L W  K B P S A  
+
+V F X Y A  P J L I O  K M U B W  Q G S C N  D R E H T  
+D S M C U  Y H E V W  X J I G T  F R P K O  N A Q L B  
+I O H G W  Q B K R D  L Y N E P  A T X V J  C M S F U  
+L K R J T  C N X U A  Q D V S F  W E H M B  Y P G O I  
+N E Q P B  S F M G T  H A R O C  U L Y I D  W V J X K  
+
+=====================================================
+
+A C P B W  U T O Q F  E X M L G  N D I K Y  S H J V R  
+E N U J O  A Y M S P  T V D F R  H C L X B  I Q K G W  
+K T S F M  L D G B V  I H Q A U  J W O P R  X E Y C N  
+L V R D Y  C X I H N  W K J S B  G A E U Q  M F P O T  
+X H G Q I  R K E W J  N O P Y C  S F M T V  B L D U A  
+
+R Y N X D  B A K C T  H Q G W P  L O U J M  V I S E F  
+F A C S P  D R U O L  B T E N M  V K G H I  J Y X W Q  
+M L T K V  X F N Y H  U C S J I  A E W Q P  R D O B G  
+U O J H Q  G W V E I  A Y F D K  B T S R X  C P L N M  
+G W B I E  M J S P Q  O L R V X  C N Y D F  U T H A K  
+
+B M L U S  O G P A C  V F T X E  R J Q N K  H W I Y D  
+T K F A X  V U Y J R  G P O C S  M I D W H  L N B Q E  
+C Q I E R  T S W F M  L N B H D  P X V Y G  A J U K O  
+Y P V N J  E H X D B  M W K I Q  T U A O L  F G R S C  
+W D H O G  I Q L N K  J R Y U A  F S C B E  P X T M V  
+
+J U O L N  W P R M Y  C G X T V  D Q K S A  E B F I H  
+P B E M C  J O F L G  Y A I K N  X H R V T  Q S W D U  
+S R A V K  H C B X D  F E W Q L  I P N G U  T O M J Y  
+Q I Y T F  S V A K U  P D H M O  E B J L W  G C N R X  
+D X W G H  N I Q T E  S B U R J  O Y F M C  K V A P L  
+
+V F X W L  P N J R O  K M A B Y  Q G T C S  D U E H I  
+H S M C U  K E D I W  X J V G T  Y R B F O  N A Q L P  
+I G K P A  Q L T V S  D U N O H  W M X E J  Y R C F B  
+O E D R T  Y B C U A  Q S L P F  K V H I N  W M G X J  
+N J Q Y B  F M H G X  R I C E W  U L P A D  O K V T S  
+
+=====================================================
+
+Results for alpha_18.txt:
+
+=====================================================
+
+
+=====================================================
+
+No solution

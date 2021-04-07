@@ -125,6 +125,13 @@ abstract class SAT {
         int[][] clauses = clausesAndSymbols.clauses;
         int[] symbols = clausesAndSymbols.symbols;
 
+        solve(clauses, symbols);
+    }
+
+    public void solve(int[][] clauses, int[] symbols) {
+        // Reset ourselves
+        reset();
+
         // Set lastSat attribute to the value returned by the solver
         long startTime = System.currentTimeMillis();
         lastSat = satSolver(clauses, symbols);
