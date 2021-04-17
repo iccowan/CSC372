@@ -6,10 +6,15 @@ defmodule BnetCli do
   end
 
   defp solve({ vals, given }) do
-    # TODO: We need to call the appropriate solver here...
-    IO.inspect vals
-    IO.inspect given
-    0
+    IO.write("Exact Inference Calculation: ")
+    BnetExactInf.get_prob(%{ vals: vals, given: given })
+    |> IO.puts
+
+    IO.write("Approximate Inference Calculation: ")
+    # TODO
+    #|> BnetApproxInf.get_prob(%{ vals: vals, given, given })
+    "To be implemented..."
+    |> IO.puts
   end
 
   defp process_input(inputs, _given, [ h | t ])
@@ -46,11 +51,11 @@ defmodule BnetCli do
   end
 
   defp node_and_val([ node, "t" ]) do
-    { node, 1 }
+    { node |> String.to_atom(), 1 }
   end
 
   defp node_and_val([ node, "f" ]) do
-    { node, 0 }
+    { node |> String.to_atom(), 0 }
   end
 
 end

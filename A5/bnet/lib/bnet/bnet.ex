@@ -1,8 +1,9 @@
 defmodule Bnet.Bnet do
 
   defstruct [
-    roots: [ "B", "E", ],
-    nodes: %{}
+    roots: [ :B, :E, ],
+    node_names: [ :E, :B, :A, :J, :M ],
+    nodes: %{},
   ]
 
 end

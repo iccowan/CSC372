@@ -1,8 +1,11 @@
 defmodule Bnet do
 
-  alias Bnet.GenerateBnet
+  alias Bnet.{ DisjointTable, GenerateBnet }
 
-  defdelegate get_bnet(),
+  defdelegate get(),
     to: GenerateBnet
+
+  defdelegate get_disjoint_table(bnet),
+    to: DisjointTable
 
 end
