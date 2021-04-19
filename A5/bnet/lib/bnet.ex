@@ -1,11 +1,13 @@
+# Ian Cowan
+# CSC372 A5
+# Bayes Net Inferencing
+
 defmodule Bnet do
 
-  alias Bnet.{ DisjointTable, GenerateBnet }
+  alias Bnet.GenerateBnet
 
+  # Retrieve a generated Bayes Net
   defdelegate get(),
     to: GenerateBnet
-
-  defdelegate get_disjoint_table(bnet),
-    to: DisjointTable
 
 end

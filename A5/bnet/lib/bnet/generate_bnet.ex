@@ -1,7 +1,12 @@
+# Ian Cowan
+# CSC372 A5
+# Bayes Net Inferencing
+
 defmodule Bnet.GenerateBnet do
 
   alias Bnet.{ Bnet, Node }
 
+  # Generates the hard coded Bayes Net and returns a 'Bnet' struct
   def get() do
     # Hard code the BNET for this problem
     %Bnet{
@@ -9,7 +14,9 @@ defmodule Bnet.GenerateBnet do
     }
   end
 
+  # Generates the nodes for the Bayes Net returning a 'Map' of nodes
   defp get_nodes() do
+    # Generate the nodes
     %{
       :E => get_e(),
       :B => get_b(),
@@ -19,6 +26,7 @@ defmodule Bnet.GenerateBnet do
     }
   end
 
+  # Returns a 'Node' representing the E node
   defp get_e() do
     %Node{
       name: :E,
@@ -27,6 +35,7 @@ defmodule Bnet.GenerateBnet do
     }
   end
 
+  # Returns a 'Node' representing the B node
   defp get_b() do
     %Node{
       name: :B,
@@ -35,6 +44,7 @@ defmodule Bnet.GenerateBnet do
     }
   end
 
+  #Returns a 'Node' representing the A node
   defp get_a() do
     %Node{
       name: :A,
@@ -49,6 +59,7 @@ defmodule Bnet.GenerateBnet do
     }
   end
 
+  # Returns a 'Node' representing the J node
   defp get_j() do
     %Node{
       name: :J,
@@ -61,6 +72,7 @@ defmodule Bnet.GenerateBnet do
     }
   end
 
+  # Returns a 'Node' representing the M node
   defp get_m() do
     %Node{
       name: :M,
