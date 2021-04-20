@@ -25,3 +25,6 @@ bnet_cli-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# Ignore the binary file
+bnet
